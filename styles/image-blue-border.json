@@ -1,0 +1,16 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 3,
+	"title": "Blue Border",
+    "slug": "blue-border",
+	"blockTypes": ["core/image" ],
+	"styles": {
+            "border": {
+                    "color": "#00f9ff",
+                    "style": "solid",
+                    "width": "4px",
+                    "radius": "15px"
+                },
+			"shadow": "var(--wp--preset--shadow--natural)"
+		}
+}

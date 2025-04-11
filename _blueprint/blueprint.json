@@ -1,0 +1,9 @@
+{
+	"meta": {
+		"title": "Editing Themes via site editor",
+		"author": "bph",
+		"description": "A blueprint to install create-block-theme and gutenberg plugins",
+		"categories": ["plugins"]
+	},
+	"plugins": ["gutenberg", "create-block-theme"]
+}
